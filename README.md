@@ -102,24 +102,43 @@ Modern product landing page recreated from a Figma design.
 - Flexbox
 - CSS Grid
 
-**Stack**
+## Tech Stack
 
-`HTML5` `CSS3` `JavaScript`
+<table>
+<tr>
 
-<br>
+<td align="center" width="33%">
 
-<a href="https://kiyoko844.github.io/homework/End/index.html">
-<img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+HTML5 • CSS3 • JavaScript
+
+</td>
+
+<td align="center" width="33%">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+Git • GitHub • VS Code
+
+</td>
+
+<td align="center" width="33%">
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+Figma • UI Design
 
 </td>
 
 </tr>
 </table>
-
-<p align="center">
-    <img src="./hero/divider.svg" width="100%" alt="">
-</p>
 
 
 ### Frontend

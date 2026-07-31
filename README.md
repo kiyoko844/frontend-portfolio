@@ -104,6 +104,25 @@ Modern product landing page recreated from a Figma design.
 - CSS Grid
 
 
+**Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+<br>
+
+<a href="https://kiyoko844.github.io/homework/End/index.html">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+    <img src="./hero/divider.svg" width="100%" alt="">
+</p>
+
 ## Tech Stack
 
 <table>
@@ -141,6 +160,10 @@ Figma • UI Design
 
 </tr>
 </table>
+
+<p align="center">
+    <img src="./hero/divider.svg" width="100%" alt="">
+</p>
 
 ## Contact
 

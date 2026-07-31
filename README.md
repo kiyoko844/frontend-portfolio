@@ -2,7 +2,7 @@
 
 # 👋 Вадим
 
-## Frontend Developer
+## Начинающий Frontend Developer
 
 Создаю современные адаптивные сайты по макетам **Figma**  
 с использованием **HTML, CSS и JavaScript**
@@ -146,13 +146,16 @@
 </a>
 
 
-<a href="https://t.me/ТВОЙ_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<a href="https://t.me/xitsuma" target="_blank" rel="noopener noreferrer">
+    <img 
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" 
+        alt="Telegram">
 </a>
 
-
-<a href="mailto:ТВОЯ_ПОЧТА">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:khatmullinv@list.ru">
+    <img 
+        src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+        alt="Email">
 </a>
 
 

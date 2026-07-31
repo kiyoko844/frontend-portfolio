@@ -8,18 +8,6 @@
 </p>
 
 
-<div align="center">
-
-## About
-
-Frontend developer passionate about building modern, responsive and visually polished web interfaces.
-
-I enjoy turning Figma designs into clean, maintainable code while focusing on performance, accessibility and user experience.
-
-Currently improving my JavaScript skills and preparing to work with React to build scalable frontend applications.
-
-</div>
-
 <p align="center">
     <img src="./hero/divider.svg" width="100%" alt="">
 </p>

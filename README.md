@@ -29,7 +29,7 @@ Building modern, responsive web interfaces with a focus on performance, clean co
 </div>
 
 <p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="">
+    <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@ Currently improving my JavaScript skills and preparing to work with React to bui
 </div>
 
 <p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="">
+    <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
 ## Featured Projects
@@ -118,7 +118,7 @@ Modern product landing page recreated from a Figma design.
 </table>
 
 <p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="">
+    <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
 ## GitHub Analytics
@@ -140,7 +140,7 @@ Modern product landing page recreated from a Figma design.
 </div>
 
 <p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="">
+    <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 ## Tech Stack
 
@@ -181,7 +181,7 @@ Figma • UI Design
 </table>
 
 <p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="">
+    <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
 ## Contact
@@ -207,15 +207,6 @@ Figma • UI Design
 </div>
 
 <p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="">
+    <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kiyoko844&theme=darkhub&no-frame=true&row=1&column=6"/>
-
-</p>
-
-<p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="">
-</p>

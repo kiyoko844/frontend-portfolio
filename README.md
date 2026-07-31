@@ -114,10 +114,6 @@ Modern product landing page recreated from a Figma design.
 
 <br>
 
-<a href="https://kiyoko844.github.io/homework/End/index.html">
-<img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
 </td>
 
 </tr>

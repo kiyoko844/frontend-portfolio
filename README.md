@@ -121,25 +121,6 @@ Modern product landing page recreated from a Figma design.
     <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
-## GitHub Analytics
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoko844&bg_color=00000000&color=FF6B00&line=FF6B00&point=FF6B00&area=true&hide_border=true"/>
-
-</div>
-
-<p align="center">
-    <img src="./hero/divider.svg" width="100%" alt="">
-</p>
-## Tech Stack
-
-<table>
-<tr>
-
-<td align="center" width="33%">
 
 ### Frontend
 

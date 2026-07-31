@@ -128,26 +128,25 @@ Figma • UI Design
 
 ## Let's Connect
 
-<a href="https://t.me/xitsuma" target="_blank">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" alt="Telegram"/>
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:khatmullinv@list.ru">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" alt="Email"/>
-</a>
-
-
-<a href="https://t.me/xitsuma">Telegram</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:khatmullinv@list.ru">Email</a>
-
-</div>
+<p align="center">
+  <a href="https://t.me/xitsuma" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:khatmullinv@list.ru">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email"/>
+  </a>
+</p>
 
 <p align="center">
+  <a href="https://t.me/xitsuma">Telegram</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:khatmullinv@list.ru">Email</a>
+</p>
 
-Made with ❤️ by Vadim Khatmullin
+<br>
 
+<p align="center">
+  Made with ❤️ by <b>Vadim Khatmullin</b>
 </p>
 

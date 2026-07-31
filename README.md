@@ -1,2 +1,38 @@
-# frontend-portfolio
-Portfolio of responsive websites built with HTML, CSS and JavaScript.
+# 👋 Привет!
+
+Меня зовут Вадим.
+
+Я начинающий Frontend-разработчик, создающий современные адаптивные сайты по макетам Figma с использованием HTML, CSS и JavaScript.
+
+---
+
+## 🛠️ Технологии
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git
+- GitHub
+- Figma
+
+---
+
+## 📂 Проекты
+
+### 🏋️ Pulse Fitness
+
+> В разработке...
+
+---
+
+### 💼 Проект №2
+
+> В разработке...
+
+---
+
+## 📫 Контакты
+
+- GitHub:
+- Email:
+- Telegram:

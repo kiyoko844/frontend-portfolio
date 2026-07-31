@@ -46,6 +46,15 @@ Building modern, responsive web interfaces with a focus on clean code, performan
 <tr>
 <td width="50%">
 
+## Current Focus
+
+- 🔭 Building responsive websites from Figma designs
+- 🌱 Deepening my JavaScript knowledge and preparing to learn React
+- 🎯 Improving code quality, accessibility, and performance
+- 💼 Expanding my frontend portfolio with real-world projects
+
+---
+
 ### 🏋️ Pulse Fitness Center
 
 Modern responsive landing page for a fitness center built from a Figma design.

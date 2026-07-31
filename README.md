@@ -31,6 +31,7 @@ Responsive fitness center landing page developed from a Figma design.
 - 📱 Responsive Layout
 - 🎯 Pixel Perfect
 - 🧩 BEM Methodology
+- ⚡ Flexbox
 - ⚡ CSS Grid & Flexbox
 - 🎨 Interactive UI
 - 🟨 JavaScript Components

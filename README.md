@@ -2,48 +2,48 @@
 
 # 👋 Привет, я Вадим
 
-### Frontend Developer
+### Frontend-разработчик
 
-Создаю современные адаптивные сайты по макетам **Figma** с использованием **HTML**, **CSS** и **JavaScript**.
+Создаю современные адаптивные сайты по макетам **Figma**, используя **HTML**, **CSS** и **JavaScript**. Постоянно развиваю свои навыки и уделяю внимание чистому, понятному и поддерживаемому коду.
 
 <br>
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
-</p>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Мои проекты
 
 ## 🏋️ Pulse Fitness Center
 
-> **🎓 Graduation Project**
+> **🎓 Дипломный проект**
 
 <p align="center">
-<img src="images/pulse-fitness.png" alt="Pulse Fitness" width="900">
+  <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+    <img src="images/pulse-fitness.png" alt="Pulse Fitness" width="900">
+  </a>
 </p>
 
 Современный адаптивный сайт фитнес-клуба, разработанный по макету Figma.
 
-**Основные возможности**
+### Что реализовано
 
-- Responsive Design
-- Semantic HTML5
-- CSS Grid & Flexbox
-- JavaScript
-- Slider
-- Tabs
-- Accordion
-- Video Lightbox
-- CSS Animations
+- ✅ Адаптивная верстка
+- ✅ Семантическая HTML-разметка
+- ✅ Flexbox и CSS Grid
+- ✅ JavaScript
+- ✅ Слайдер
+- ✅ Табы
+- ✅ Аккордеон
+- ✅ Видео с Lightbox
+- ✅ CSS-анимации
 
 <p align="center">
-<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B00?style=for-the-badge">
-</a>
+  <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+    <img src="https://img.shields.io/badge/🌐_Посмотреть_проект-FF6B00?style=for-the-badge">
+  </a>
 </p>
 
 ---
@@ -51,28 +51,30 @@
 ## 👟 Nike Air Mag
 
 <p align="center">
-<img src="images/nike-air-mag.png" alt="Nike Air Mag" width="900">
+  <a href="https://kiyoko844.github.io/homework/End/index.html">
+    <img src="images/nike-air-mag.png" alt="Nike Air Mag" width="900">
+  </a>
 </p>
 
 Адаптивный лендинг, созданный по макету Figma.
 
-**Основные возможности**
+### Что реализовано
 
-- Responsive Design
-- Pixel Perfect
-- Semantic HTML5
-- CSS Grid & Flexbox
-- CSS Animations
+- ✅ Адаптивная верстка
+- ✅ Семантическая HTML-разметка
+- ✅ Pixel Perfect
+- ✅ Flexbox и CSS Grid
+- ✅ CSS-анимации
 
 <p align="center">
-<a href="https://kiyoko844.github.io/homework/End/index.html">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B00?style=for-the-badge">
-</a>
+  <a href="https://kiyoko844.github.io/homework/End/index.html">
+    <img src="https://img.shields.io/badge/🌐_Посмотреть_проект-FF6B00?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-# 🛠️ Skills
+# 🛠️ Навыки
 
 <p>
 
@@ -87,7 +89,7 @@
 
 ---
 
-# 📚 Currently Learning
+# 📚 Сейчас изучаю
 
 - React
 - TypeScript
@@ -95,7 +97,7 @@
 
 ---
 
-# 📫 Contact
+# 📫 Контакты
 
 <p>
 
@@ -103,11 +105,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/ВАШ_ТЕЛЕГРАМ">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ВАША_ПОЧТА">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 

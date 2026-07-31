@@ -108,13 +108,6 @@ Modern product landing page recreated from a Figma design.
   <img src="./hero/divider.svg" width="100%" alt="divider">
 </p>
 
-
-**Stack**
-
-`HTML5` `CSS3` `JavaScript`
-
-<br>
-
 </td>
 
 </tr>

@@ -19,11 +19,23 @@
 
 ## 📂 Проекты
 
-### 🏋️ Pulse Fitness
+🏋️ Pulse Fitness Center
+⭐⭐⭐⭐⭐ Главный проект
 
-> В разработке...
+✔ HTML5
+✔ CSS3
+✔ JavaScript
 
----
+• Slider
+• Tabs
+• Accordion
+• Lightbox
+• CSS Animation
+• Responsive Design
+
+🔗 **Демо:** 
+
+📁 **Исходный код:** 
 
 ### 👟 Nike Air Mag
 

@@ -81,16 +81,18 @@ Modern product landing page recreated from a Figma design.
     <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
-## Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="33%">
 
-### Frontend
+<h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>
+
+<br><br>
 
 HTML5 • CSS3 • JavaScript
 
@@ -98,9 +100,11 @@ HTML5 • CSS3 • JavaScript
 
 <td align="center" width="33%">
 
-### Tools
+<h3>Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
+
+<br><br>
 
 Git • GitHub • VS Code
 
@@ -108,9 +112,11 @@ Git • GitHub • VS Code
 
 <td align="center" width="33%">
 
-### Design
+<h3>Design</h3>
 
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+
+<br><br>
 
 Figma • UI Design
 
@@ -119,8 +125,10 @@ Figma • UI Design
 </tr>
 </table>
 
+<br>
+
 <p align="center">
-    <img src="./hero/divider.svg" width="100%" alt="">
+  <img src="./hero/divider.svg" width="100%" alt="divider">
 </p>
 
 

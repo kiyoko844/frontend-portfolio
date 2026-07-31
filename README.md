@@ -1,13 +1,6 @@
 <p align="center">
   <img src="./hero/hero.svg" width="100%" alt="Hero">
 </p>
-
-
-<p align="center">
-    <img src="./hero/divider.svg" width="100%" alt="">
-</p>
-
-
 <p align="center">
     <img src="./hero/divider.svg" width="100%" alt="">
 </p>

@@ -32,13 +32,14 @@ Building modern, responsive web interfaces with a focus on performance, clean co
     <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
+
 <div align="center">
 
 ## About
 
-Frontend developer passionate about building modern, responsive, and visually polished web interfaces.
+Frontend developer passionate about building modern, responsive and visually polished web interfaces.
 
-I enjoy turning Figma designs into clean, maintainable code while focusing on performance, accessibility, and user experience.
+I enjoy turning Figma designs into clean, maintainable code while focusing on performance, accessibility and user experience.
 
 Currently improving my JavaScript skills and preparing to work with React to build scalable frontend applications.
 
@@ -102,6 +103,7 @@ Modern product landing page recreated from a Figma design.
 - Flexbox
 - CSS Grid
 
+
 ## Tech Stack
 
 <table>
@@ -140,61 +142,17 @@ Figma • UI Design
 </tr>
 </table>
 
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-HTML5 • CSS3 • JavaScript
-
-</td>
-
-<td align="center" width="33%">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-Git • GitHub • VS Code
-
-</td>
-
-<td align="center" width="33%">
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-Figma • UI Design
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-    <img src="./hero/divider.svg" width="100%" alt="">
-</p>
-
 ## Contact
 
 <div align="center">
 
-<a href="https://kiyoko844.github.io/frontend-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-
-<a href="https://github.com/kiyoko844">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://t.me/xitsuma">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="mailto:khatmullinv@list.ru">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://kiyoko844.github.io/frontend-portfolio/">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/kiyoko844">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://t.me/xitsuma">Telegram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:khatmullinv@list.ru">Email</a>
 
 </div>
 

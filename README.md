@@ -2,13 +2,6 @@
   <img src="./hero/hero.svg" width="100%" alt="Hero">
 </p>
 
-<div align="center">
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=light" />
-
-</div>
 
 <p align="center">
     <img src="./hero/divider.svg" width="100%" alt="">
@@ -160,4 +153,10 @@ Figma • UI Design
 <a href="mailto:khatmullinv@list.ru">Email</a>
 
 </div>
+
+<p align="center">
+
+Made with ❤️ by Vadim Khatmullin
+
+</p>
 

@@ -2,9 +2,9 @@
 
 # Вадим
 
-### Frontend-разработчик
+### Frontend Developer
 
-Создаю современные адаптивные сайты по макетам **Figma** с использованием **HTML**, **CSS** и **JavaScript**.
+Создаю современные адаптивные сайты по макетам Figma.
 
 <br>
 
@@ -12,97 +12,90 @@
 
 <br><br>
 
-<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-<img src="https://img.shields.io/badge/🏋️_Дипломный_проект-Pulse_Fitness-ff6b00?style=for-the-badge">
-</a>
+<a href="#-pulse-fitness-center">Проекты</a> •
+<a href="#-контакты">Контакты</a>
 
 </div>
 
 ---
 
-# 🚀 Портфолио
+# 🚀 Проекты
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🏋️ Pulse Fitness Center
 
-> **Дипломный проект**
+**Дипломный проект**
 
-<p align="center">
-<img src="images/pulse-fitness.png" width="100%" alt="Pulse Fitness">
-</p>
+<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+
+<img src="images/pulse-fitness.png" alt="Pulse Fitness">
+
+</a>
 
 Современный адаптивный сайт фитнес-клуба, разработанный по макету Figma.
 
-<p align="center">
+**Технологии**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Responsive-000000?style=flat-square">
-<img src="https://img.shields.io/badge/Grid-000000?style=flat-square">
-<img src="https://img.shields.io/badge/Flexbox-000000?style=flat-square">
+`HTML5`
+`CSS3`
+`JavaScript`
+`Responsive`
+`Grid`
+`Flexbox`
 
-</p>
-
-### Реализовано
-
-- Адаптивная верстка
-- Pixel Perfect
-- Семантическая HTML-разметка
-- Flexbox и CSS Grid
-- Слайдер
-- Табы
-- Аккордеон
-- Видео с Lightbox
-- CSS-анимации
-
-<p align="center">
+<br>
 
 <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+
 <img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
+
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 👟 Nike Air Mag
 
-<p align="center">
-<img src="images/nike-air-mag.png" width="100%" alt="Nike Air Mag">
-</p>
-
-Адаптивный лендинг, созданный по макету Figma.
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Responsive-000000?style=flat-square">
-<img src="https://img.shields.io/badge/Pixel_Perfect-000000?style=flat-square">
-
-</p>
-
-### Реализовано
-
-- Pixel Perfect
-- Адаптивная верстка
-- Семантическая HTML-разметка
-- CSS Grid
-- Flexbox
-- CSS-анимации
-
-<p align="center">
-
 <a href="https://kiyoko844.github.io/homework/End/index.html">
-<img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
+
+<img src="images/nike-air-mag.png" alt="Nike">
+
 </a>
 
-</p>
+Адаптивный лендинг, разработанный по макету Figma.
+
+**Технологии**
+
+`HTML5`
+`CSS3`
+`JavaScript`
+`Responsive`
+
+<br>
+
+<a href="https://kiyoko844.github.io/homework/End/index.html">
+
+<img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
+
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Используемые технологии
+# 💻 Стек
 
 <p align="center">
 
@@ -122,7 +115,7 @@
 
 &nbsp;
 
-<a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
+<a href="https://t.me/ТВОЙ_USERNAME">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 

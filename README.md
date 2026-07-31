@@ -36,3 +36,36 @@ Building modern, responsive and user-focused web interfaces.
 
 ---
 
+## About me
+
+```javascript
+const vadim = {
+    role: "Frontend Developer",
+
+    location: "Russia",
+
+    experience: "Frontend Development",
+
+    currentlyLearning: [
+        "JavaScript",
+        "React"
+    ],
+
+    technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "GitHub",
+        "Figma"
+    ],
+
+    focus: [
+        "Responsive Design",
+        "Pixel Perfect",
+        "Clean Code",
+        "UI Development"
+    ]
+};
+```
+

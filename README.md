@@ -19,7 +19,7 @@
 > **Дипломный проект**
 
 <p align="center">
-<img src="images/pulse-fitness.png" alt="Pulse Fitness Center">
+<img src="images/pulse-fitness.png.png" alt="Pulse Fitness Center">
 </p>
 
 Современный адаптивный сайт фитнес-клуба, разработанный по макету Figma.
@@ -51,7 +51,7 @@
 ## 👟 Nike Air Mag
 
 <p align="center">
-<img src="images/nike-air-mag.png" alt="Nike Air Mag">
+<img src="images/nike-air-mag.png.png" alt="Nike Air Mag">
 </p>
 
 Адаптивный лендинг, созданный по макету Figma.

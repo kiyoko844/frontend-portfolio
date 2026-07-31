@@ -25,11 +25,27 @@
 
 ---
 
-### 💼 Проект №2
+### 👟 Nike Air Mag
 
-> В разработке...
+Современный адаптивный лендинг, созданный по макету Figma.
 
----
+**Технологии:**
+
+- HTML5
+- CSS3
+- JavaScript
+
+**Что реализовано:**
+
+- Адаптивная верстка
+- Flexbox и Grid Layout
+- Современная семантическая HTML-разметка
+- CSS-анимации и эффекты
+- Pixel Perfect верстка
+
+🔗 **Демо:** https://kiyoko844.github.io/homework/End/index.html
+
+📁 **Исходный код:** https://github.com/kiyoko844/homework
 
 ## 📫 Контакты
 

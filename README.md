@@ -140,17 +140,43 @@ Figma • UI Design
     <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
-## Contact
+<p align="center">
+  <img src="./hero/divider.svg" width="100%" alt="">
+</p>
 
 <div align="center">
 
+## Let's Connect
+
+<a href="https://kiyoko844.github.io/frontend-portfolio/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kiyoko844" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/xitsuma" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" alt="Telegram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:khatmullinv@list.ru">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" alt="Email"/>
+</a>
+
+<br><br>
+
 <a href="https://kiyoko844.github.io/frontend-portfolio/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/kiyoko844">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://t.me/xitsuma">Telegram</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:khatmullinv@list.ru">Email</a>
+
+<br><br>
+
+<sub>Designed & Developed by <strong>Vadim Khatmullin</strong></sub>
 
 </div>
 

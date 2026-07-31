@@ -1,58 +1,57 @@
 <div align="center">
 
-# Вадим
+# 👋 Привет, я Вадим
 
 ### Frontend Developer
 
-Создаю современные адаптивные сайты по макетам Figma.
+Создаю современные адаптивные сайты по макетам Figma.  
+Специализируюсь на чистой HTML/CSS-верстке, JavaScript и адаптивных интерфейсах.
 
 <br>
 
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
-
-<br><br>
-
-<a href="#-pulse-fitness-center">Проекты</a> •
-<a href="#-контакты">Контакты</a>
+</p>
 
 </div>
 
 ---
 
-# 🚀 Проекты
+# 🚀 Избранные проекты
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ## 🏋️ Pulse Fitness Center
 
-**Дипломный проект**
+**🎓 Дипломный проект**
 
 <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-
 <img src="images/pulse-fitness.png" alt="Pulse Fitness">
-
 </a>
 
-Современный адаптивный сайт фитнес-клуба, разработанный по макету Figma.
+Современный адаптивный лендинг фитнес-клуба, разработанный по макету Figma.
 
-**Технологии**
+**Использовано**
 
-`HTML5`
-`CSS3`
-`JavaScript`
-`Responsive`
-`Grid`
-`Flexbox`
+`HTML5` `CSS3` `JavaScript`
+
+`Responsive` `Flexbox` `Grid`
+
+`Slider` `Tabs` `Accordion`
 
 <br>
+
+<p align="center">
 
 <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
 
 <img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
 
 </a>
+
+</p>
 
 </td>
 </tr>
@@ -62,26 +61,27 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ## 👟 Nike Air Mag
 
 <a href="https://kiyoko844.github.io/homework/End/index.html">
-
-<img src="images/nike-air-mag.png" alt="Nike">
-
+<img src="images/nike-air-mag.png" alt="Nike Air Mag">
 </a>
 
 Адаптивный лендинг, разработанный по макету Figma.
 
-**Технологии**
+**Использовано**
 
-`HTML5`
-`CSS3`
-`JavaScript`
-`Responsive`
+`HTML5` `CSS3` `JavaScript`
+
+`Responsive` `Pixel Perfect`
+
+`Flexbox` `Grid`
 
 <br>
+
+<p align="center">
 
 <a href="https://kiyoko844.github.io/homework/End/index.html">
 
@@ -89,19 +89,27 @@
 
 </a>
 
+</p>
+
 </td>
 </tr>
 </table>
 
 ---
 
-# 💻 Стек
+# 💻 Стек технологий
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma"/>
 
-</p>
+</div>
+
+---
+
+# 🎯 Цель
+
+Сейчас ищу возможность присоединиться к команде в качестве **Junior Frontend Developer**, чтобы развиваться в коммерческой разработке и создавать качественные пользовательские интерфейсы.
 
 ---
 
@@ -113,13 +121,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;
-
 <a href="https://t.me/ТВОЙ_USERNAME">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-
-&nbsp;
 
 <a href="mailto:ТВОЯ_ПОЧТА">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">

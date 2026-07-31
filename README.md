@@ -1,132 +1,168 @@
 <div align="center">
 
-# 👋 Привет, я Вадим
+# 👋 Вадим
 
-### Frontend Developer
+## Frontend Developer
 
-Создаю современные адаптивные сайты по макетам Figma.  
-Специализируюсь на чистой HTML/CSS-верстке, JavaScript и адаптивных интерфейсах.
+Создаю современные адаптивные сайты по макетам **Figma**  
+с использованием **HTML, CSS и JavaScript**
 
 <br>
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
-</p>
+
+<br><br>
 
 </div>
 
 ---
 
-# 🚀 Избранные проекты
+# 🚀 Мои проекты
 
-<table>
-<tr>
-<td width="100%">
+<br>
 
 ## 🏋️ Pulse Fitness Center
 
-**🎓 Дипломный проект**
-
-<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-<img src="images/pulse-fitness.png" alt="Pulse Fitness">
-</a>
-
-Современный адаптивный лендинг фитнес-клуба, разработанный по макету Figma.
-
-**Использовано**
-
-`HTML5` `CSS3` `JavaScript`
-
-`Responsive` `Flexbox` `Grid`
-
-`Slider` `Tabs` `Accordion`
-
-<br>
+### 🎓 Дипломный проект
 
 <p align="center">
-
-<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-
-<img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
-
-</a>
-
+<img src="images/pulse-fitness.png" alt="Pulse Fitness Center">
 </p>
 
-</td>
-</tr>
-</table>
+Современный адаптивный сайт фитнес-клуба, разработанный по макету Figma.
 
----
+### Реализовано:
 
-<table>
-<tr>
-<td width="100%">
+- Адаптивная верстка под разные устройства
+- Семантическая HTML-разметка
+- Pixel Perfect
+- Flexbox
+- CSS Grid
+- JavaScript
+- Слайдер
+- Табы
+- Аккордеон
+- Видео Lightbox
+- CSS-анимации
 
-## 👟 Nike Air Mag
 
-<a href="https://kiyoko844.github.io/homework/End/index.html">
-<img src="images/nike-air-mag.png" alt="Nike Air Mag">
-</a>
+**Стек:**
 
-Адаптивный лендинг, разработанный по макету Figma.
+`HTML5` `CSS3` `JavaScript` `Figma` `Git`
 
-**Использовано**
-
-`HTML5` `CSS3` `JavaScript`
-
-`Responsive` `Pixel Perfect`
-
-`Flexbox` `Grid`
-
-<br>
-
-<p align="center">
-
-<a href="https://kiyoko844.github.io/homework/End/index.html">
-
-<img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
-
-</a>
-
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-# 💻 Стек технологий
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma"/>
+<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+
+<img src="https://img.shields.io/badge/🌐_Открыть_проект-FF6B00?style=for-the-badge">
+
+</a>
 
 </div>
 
+
+<br>
+
 ---
 
-# 🎯 Цель
+<br>
 
-Сейчас ищу возможность присоединиться к команде в качестве **Junior Frontend Developer**, чтобы развиваться в коммерческой разработке и создавать качественные пользовательские интерфейсы.
+
+## 👟 Nike Air Mag
+
+
+<p align="center">
+<img src="images/nike-air-mag.png" alt="Nike Air Mag">
+</p>
+
+
+Адаптивный лендинг, созданный по макету Figma.
+
+
+### Реализовано:
+
+- Адаптивная верстка
+- Pixel Perfect
+- Семантическая HTML-разметка
+- Flexbox
+- CSS Grid
+- CSS-анимации
+
+
+**Стек:**
+
+`HTML5` `CSS3` `JavaScript` `Figma`
+
+
+<div align="center">
+
+<a href="https://kiyoko844.github.io/homework/End/index.html">
+
+<img src="https://img.shields.io/badge/🌐_Открыть_проект-FF6B00?style=for-the-badge">
+
+</a>
+
+</div>
+
+
+---
+
+# 🛠 Технологии
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+
+</div>
+
+
+---
+
+# 💡 Навыки
+
+
+- Адаптивная верстка
+- Работа с Figma
+- Pixel Perfect
+- БЭМ методология
+- Flexbox / Grid
+- JavaScript DOM
+- Создание интерактивных элементов
+- Оптимизация структуры HTML и CSS
+
 
 ---
 
 # 📫 Контакты
 
+
 <div align="center">
+
 
 <a href="https://github.com/kiyoko844">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://t.me/ТВОЙ_USERNAME">
+
+<a href="https://t.me/ТВОЙ_TELEGRAM">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+
 
 <a href="mailto:ТВОЯ_ПОЧТА">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+⭐ Спасибо за просмотр моего портфолио
 
 </div>

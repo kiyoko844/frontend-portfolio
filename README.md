@@ -33,31 +33,28 @@
 • CSS Animation
 • Responsive Design
 
-🔗 **Демо:** 
+🔗 **Демо:** https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html
 
-📁 **Исходный код:** 
 
 ### 👟 Nike Air Mag
 
 Современный адаптивный лендинг, созданный по макету Figma.
 
-**Технологии:**
+**Технологии**
 
 - HTML5
 - CSS3
 - JavaScript
 
-**Что реализовано:**
+**Особенности проекта**
 
 - Адаптивная верстка
-- Flexbox и Grid Layout
-- Современная семантическая HTML-разметка
-- CSS-анимации и эффекты
-- Pixel Perfect верстка
+- Семантическая HTML-разметка
+- Flexbox и CSS Grid
+- Pixel Perfect
+- CSS-анимации
 
-🔗 **Демо:** https://kiyoko844.github.io/homework/End/index.html
-
-📁 **Исходный код:** https://github.com/kiyoko844/homework
+🌐 **Демо:** https://kiyoko844.github.io/homework/End/index.html
 
 ## 📫 Контакты
 

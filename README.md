@@ -28,7 +28,9 @@ Building modern, responsive web interfaces with a focus on performance, clean co
 
 </div>
 
----
+<p align="center">
+    <img src="./assets/divider.svg" width="100%" alt="">
+</p>
 
 <div align="center">
 
@@ -42,7 +44,9 @@ Currently improving my JavaScript skills and preparing to work with React to bui
 
 </div>
 
----
+<p align="center">
+    <img src="./assets/divider.svg" width="100%" alt="">
+</p>
 
 ## Featured Projects
 
@@ -113,7 +117,9 @@ Modern product landing page recreated from a Figma design.
 </tr>
 </table>
 
----
+<p align="center">
+    <img src="./assets/divider.svg" width="100%" alt="">
+</p>
 
 ## GitHub Analytics
 
@@ -133,8 +139,9 @@ Modern product landing page recreated from a Figma design.
 
 </div>
 
----
-
+<p align="center">
+    <img src="./assets/divider.svg" width="100%" alt="">
+</p>
 ## Tech Stack
 
 <table>
@@ -173,7 +180,9 @@ Figma • UI Design
 </tr>
 </table>
 
----
+<p align="center">
+    <img src="./assets/divider.svg" width="100%" alt="">
+</p>
 
 ## Contact
 
@@ -197,7 +206,9 @@ Figma • UI Design
 
 </div>
 
----
+<p align="center">
+    <img src="./assets/divider.svg" width="100%" alt="">
+</p>
 
 <p align="center">
 
@@ -205,4 +216,6 @@ Figma • UI Design
 
 </p>
 
----
+<p align="center">
+    <img src="./assets/divider.svg" width="100%" alt="">
+</p>

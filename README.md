@@ -5,61 +5,107 @@
     <img src="./hero/divider.svg" width="100%" alt="">
 </p>
 
-## Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
 
-<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-<img src="./images/pulse-fitness.png" alt="Pulse Fitness" width="100%">
-</a>
+<p align="center">
+  <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+    <img src="./images/pulse-fitness.png" alt="Pulse Fitness" width="100%">
+  </a>
+</p>
 
-### Pulse Fitness Center
+<h3 align="center">Pulse Fitness Center</h3>
 
+<p align="center">
 Responsive fitness center landing page developed from a Figma design.
-
-**Highlights**
-
-- Responsive Layout
-- Pixel Perfect
-- BEM Methodology
-- CSS Grid & Flexbox
-- Interactive UI
-- JavaScript Components
-
-**Stack**
-
-`HTML5` `CSS3` `JavaScript`
+</p>
 
 <br>
 
-<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-<img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+<b>✨ Highlights</b>
+
+- 📱 Responsive Layout
+- 🎯 Pixel Perfect
+- 🧩 BEM Methodology
+- ⚡ CSS Grid & Flexbox
+- 🎨 Interactive UI
+- 🟨 JavaScript Components
+
+<br>
+
+<b>🛠 Stack</b>
+
+<br>
+
+`HTML5` `CSS3` `JavaScript`
+
+<br><br>
+
+<p align="center">
+  <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+    <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 </td>
 
+
 <td width="50%" valign="top">
 
-<a href="https://kiyoko844.github.io/homework/End/index.html">
-<img src="./images/nike-air-mag.png" alt="Nike Air Mag" width="100%">
-</a>
+<p align="center">
+  <a href="https://kiyoko844.github.io/homework/End/index.html">
+    <img src="./images/nike-air-mag.png" alt="Nike Air Mag" width="100%">
+  </a>
+</p>
 
-### Nike Air Mag
+<h3 align="center">Nike Air Mag</h3>
 
+<p align="center">
 Modern product landing page recreated from a Figma design.
+</p>
 
-**Highlights**
+<br>
 
-- Responsive Layout
-- CSS Animations
-- DOM Manipulation
-- Flexbox
-- CSS Grid
-- Interactive UI
-- JavaScript Components
+<b>✨ Highlights</b>
+
+- 📱 Responsive Layout
+- 🎬 CSS Animations
+- 🖱 DOM Manipulation
+- ⚡ Flexbox
+- 🧱 CSS Grid
+- 🎨 Interactive UI
+- 🟨 JavaScript Components
+
+<br>
+
+<b>🛠 Stack</b>
+
+<br>
+
+`HTML5` `CSS3` `JavaScript`
+
+<br><br>
+
+<p align="center">
+  <a href="https://kiyoko844.github.io/homework/End/index.html">
+    <img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="./hero/divider.svg" width="100%" alt="divider">
+</p>
 
 
 **Stack**

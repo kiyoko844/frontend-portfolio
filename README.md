@@ -1,47 +1,43 @@
 <div align="center">
 
-# 👋 Вадим
+# 👋 Привет, я Вадим
 
-## Начинающий Frontend Developer
+### Frontend Developer
 
-Создаю современные адаптивные сайты по макетам **Figma**  
-с использованием **HTML, CSS и JavaScript**
+Создаю адаптивные и современные веб-интерфейсы  
+по дизайнам из **Figma** с использованием **HTML, CSS и JavaScript**
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
 
-<br><br>
-
 </div>
 
 ---
 
-# 🚀 Мои проекты
+# 🚀 Проекты
 
-<br>
 
 ## 🏋️ Pulse Fitness Center
 
-### 🎓 Дипломный проект
+**Дипломный проект**
 
-<p align="center">
-<img src="images/pulse-fitness.png" alt="Pulse Fitness Center">
-</p>
+Адаптивный лендинг фитнес-центра, разработанный по макету Figma.
 
-Современный адаптивный сайт фитнес-клуба, разработанный по макету Figma.
+Основная задача проекта — создание современного интерфейса с плавными анимациями и интерактивными элементами.
+
 
 ### Реализовано:
 
-- Адаптивная верстка под разные устройства
-- Семантическая HTML-разметка
-- Pixel Perfect
-- Flexbox
-- CSS Grid
-- JavaScript
-- Слайдер
+- Семантическая HTML5-разметка
+- БЭМ методология
+- Pixel Perfect верстка
+- Адаптация под мобильные устройства
+- Flexbox / CSS Grid
+- JavaScript взаимодействия
+- Слайдеры
 - Табы
-- Аккордеон
+- Accordion
 - Видео Lightbox
 - CSS-анимации
 
@@ -55,7 +51,7 @@
 
 <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
 
-<img src="https://img.shields.io/badge/🌐_Открыть_проект-FF6B00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge">
 
 </a>
 
@@ -64,30 +60,21 @@
 
 <br>
 
----
-
-<br>
-
 
 ## 👟 Nike Air Mag
 
 
-<p align="center">
-<img src="images/nike-air-mag.png" alt="Nike Air Mag">
-</p>
-
-
-Адаптивный лендинг, созданный по макету Figma.
+Адаптивный лендинг обувного магазина, созданный по дизайн-макету Figma.
 
 
 ### Реализовано:
 
-- Адаптивная верстка
+- Responsive layout
 - Pixel Perfect
-- Семантическая HTML-разметка
 - Flexbox
 - CSS Grid
-- CSS-анимации
+- Анимации интерфейса
+- Работа с DOM
 
 
 **Стек:**
@@ -99,7 +86,7 @@
 
 <a href="https://kiyoko844.github.io/homework/End/index.html">
 
-<img src="https://img.shields.io/badge/🌐_Открыть_проект-FF6B00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B00?style=for-the-badge">
 
 </a>
 
@@ -108,7 +95,7 @@
 
 ---
 
-# 🛠 Технологии
+# 🛠 Technologies
 
 
 <div align="center">
@@ -120,52 +107,39 @@
 
 ---
 
-# 💡 Навыки
+# 💡 Skills
 
-
-- Адаптивная верстка
-- Работа с Figma
+- Responsive Web Development
+- Figma → HTML/CSS implementation
 - Pixel Perfect
-- БЭМ методология
-- Flexbox / Grid
+- BEM methodology
+- Flexbox / CSS Grid
 - JavaScript DOM
-- Создание интерактивных элементов
-- Оптимизация структуры HTML и CSS
+- Interactive UI elements
+- Clean and structured code
 
 
 ---
 
-# 📫 Контакты
+# 📫 Contact
 
 
 <div align="center">
 
 
-<a href="https://github.com/kiyoko844/frontend-portfolio">
-	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/kiyoko844">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 
-<a href="https://t.me/xitsuma" target="_blank" rel="noopener noreferrer">
-    <img 
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" 
-        alt="Telegram">
+<a href="https://t.me/xitsuma">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+
 
 <a href="mailto:khatmullinv@list.ru">
-    <img 
-        src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-        alt="Email">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-
-</div>
-
-
----
-
-<div align="center">
-
-⭐ Спасибо за просмотр моего портфолио
 
 </div>

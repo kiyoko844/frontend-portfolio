@@ -149,12 +149,14 @@ Figma • UI Design
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" alt="Telegram"/>
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:khatmullinv@list.ru">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" alt="Email"/>
 </a>
 
 
 <a href="https://t.me/xitsuma">Telegram</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:khatmullinv@list.ru">Email</a>
 

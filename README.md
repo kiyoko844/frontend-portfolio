@@ -77,6 +77,7 @@ Modern product landing page recreated from a Figma design.
 - 🖱 DOM Manipulation
 - ⚡ Flexbox
 - 🧱 CSS Grid
+- 🎨 Interactive UI
 - 🟨 JavaScript Components
 
 <br>

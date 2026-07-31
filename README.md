@@ -22,9 +22,9 @@
 
 <p align="center">
 Responsive fitness center landing page developed from a Figma design.
-</p>
-
 <br>
+<br>
+</p>
 
 <b>✨ Highlights</b>
 
@@ -66,9 +66,9 @@ Responsive fitness center landing page developed from a Figma design.
 
 <p align="center">
 Modern product landing page recreated from a Figma design.
-</p>
-
 <br>
+<br>
+</p>
 
 <b>✨ Highlights</b>
 

@@ -159,11 +159,8 @@ Figma • UI Design
 
 <a href="https://t.me/xitsuma">Telegram</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:khatmullinv@list.ru">Email</a>
-
-<br><br>
-
-<sub>Designed & Developed by <strong>Vadim Khatmullin</strong></sub>
 
 </div>
 

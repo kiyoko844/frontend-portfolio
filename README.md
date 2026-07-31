@@ -1,49 +1,49 @@
 <div align="center">
 
-# 👋 Привет, я Вадим
+# Вадим | Frontend-разработчик
 
-### Frontend-разработчик
+Создаю современные адаптивные сайты по макетам **Figma** с использованием **HTML**, **CSS** и **JavaScript**.
 
-Создаю современные адаптивные сайты по макетам **Figma**, используя **HTML**, **CSS** и **JavaScript**. Постоянно развиваю свои навыки и уделяю внимание чистому, понятному и поддерживаемому коду.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+</p>
 
 </div>
 
 ---
 
-# 🚀 Мои проекты
+# 🚀 Портфолио
 
 ## 🏋️ Pulse Fitness Center
 
-> **🎓 Дипломный проект**
+> **Дипломный проект**
 
 <p align="center">
-  <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-    <img src="images/pulse-fitness.png" alt="Pulse Fitness" width="900">
-  </a>
+<img src="images/pulse-fitness.png" alt="Pulse Fitness Center">
 </p>
 
 Современный адаптивный сайт фитнес-клуба, разработанный по макету Figma.
 
 ### Что реализовано
 
-- ✅ Адаптивная верстка
-- ✅ Семантическая HTML-разметка
-- ✅ Flexbox и CSS Grid
-- ✅ JavaScript
-- ✅ Слайдер
-- ✅ Табы
-- ✅ Аккордеон
-- ✅ Видео с Lightbox
-- ✅ CSS-анимации
+- Адаптивная верстка
+- Семантическая HTML-разметка
+- CSS Grid и Flexbox
+- JavaScript
+- Слайдер
+- Табы
+- Аккордеон
+- Видео с Lightbox
+- CSS-анимации
 
 <p align="center">
-  <a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
-    <img src="https://img.shields.io/badge/🌐_Посмотреть_проект-FF6B00?style=for-the-badge">
-  </a>
+
+<a href="https://kiyoko844.github.io/homework/Pulse%20Fitness/index.html">
+
+<img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
+
+</a>
+
 </p>
 
 ---
@@ -51,65 +51,75 @@
 ## 👟 Nike Air Mag
 
 <p align="center">
-  <a href="https://kiyoko844.github.io/homework/End/index.html">
-    <img src="images/nike-air-mag.png" alt="Nike Air Mag" width="900">
-  </a>
+<img src="images/nike-air-mag.png" alt="Nike Air Mag">
 </p>
 
 Адаптивный лендинг, созданный по макету Figma.
 
 ### Что реализовано
 
-- ✅ Адаптивная верстка
-- ✅ Семантическая HTML-разметка
-- ✅ Pixel Perfect
-- ✅ Flexbox и CSS Grid
-- ✅ CSS-анимации
+- Pixel Perfect
+- Адаптивная верстка
+- Семантическая HTML-разметка
+- CSS Grid
+- Flexbox
+- CSS-анимации
 
 <p align="center">
-  <a href="https://kiyoko844.github.io/homework/End/index.html">
-    <img src="https://img.shields.io/badge/🌐_Посмотреть_проект-FF6B00?style=for-the-badge">
-  </a>
+
+<a href="https://kiyoko844.github.io/homework/End/index.html">
+
+<img src="https://img.shields.io/badge/🌐_Открыть_проект-ff6b00?style=for-the-badge">
+
+</a>
+
 </p>
 
 ---
 
 # 🛠️ Навыки
 
-<p>
+### Верстка
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Pixel Perfect
+- БЭМ
 
-</p>
+### JavaScript
 
----
+- Работа с DOM
+- Слайдеры
+- Табы
+- Аккордеоны
+- Модальные окна
+- Работа с событиями
 
-# 📚 Сейчас изучаю
+### Инструменты
 
-- React
-- TypeScript
-- REST API
+- Git
+- GitHub
+- VS Code
+- Figma
 
 ---
 
 # 📫 Контакты
 
-<p>
+<p align="center">
 
 <a href="https://github.com/kiyoko844">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://t.me/ВАШ_ТЕЛЕГРАМ">
+<a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="mailto:ВАША_ПОЧТА">
+<a href="mailto:ТВОЯ_ПОЧТА">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 

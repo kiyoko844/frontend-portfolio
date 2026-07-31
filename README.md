@@ -123,14 +123,6 @@ Modern product landing page recreated from a Figma design.
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kiyoko844&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=9CA3AF&ring_color=FF6B00"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoko844&layout=compact&theme=transparent&hide_border=true&title_color=FF6B00&text_color=9CA3AF"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -205,8 +197,4 @@ Figma • UI Design
 </a>
 
 </div>
-
-<p align="center">
-    <img src="./hero/divider.svg" width="100%" alt="">
-</p>
 
